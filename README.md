@@ -3,10 +3,7 @@
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Welcome Banner" width="100%" />
 </p>
 
-<!-- 타이핑 애니메이션 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=안녕하세요+%F0%9F%91%8B+Jjong입니다!;개발자를+꿈꾸는+학생입니다.;DKSH+입학을+준비하고+있어요.;요즘은+파이썬을+공부하고+있어요+%F0%9F%90%8D" alt="Typing SVG" />
-</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&pause=1000&color=00BFFF&center=true&lines=안녕하세요+Jjong입니다!;파이썬+공부중입니다!)
 
 ---
 
