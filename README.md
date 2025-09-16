@@ -1,3 +1,8 @@
+<!-- GIF 배너 -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Welcome Banner" width="100%" />
+</p>
+
 <!-- 타이핑 애니메이션 -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=안녕하세요+%F0%9F%91%8B+Jjong입니다!;개발자를+꿈꾸는+학생입니다.;DKSH+입학을+준비하고+있어요.;요즘은+파이썬을+공부하고+있어요+%F0%9F%90%8D" alt="Typing SVG" />
@@ -25,18 +30,18 @@
 
 ---
 
-### 📈 GitHub 활동 통계
+### 📈 GitHub 활동 통계 (투명 배경)
 
 <div align="center">
 
 <!-- 깃허브 활동 통계 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjong330-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjong330-dev&show_icons=true&theme=transparent&hide_border=true" />
 
 <!-- 자주 사용하는 언어 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjong330-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjong330-dev&layout=compact&theme=transparent&hide_border=true" />
 
 <!-- 커밋 연속 기록 -->
-<img src="https://streak-stats.demolab.com?user=jjong330-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=jjong330-dev&theme=transparent&hide_border=true" />
 
 </div>
 
